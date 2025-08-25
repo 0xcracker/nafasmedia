@@ -46,9 +46,9 @@ KEY FEATURES
    - Background operation capability
    - Theme support (Dark/Light mode)
 
-=======================
+
 SYSTEM REQUIREMENTS
-=======================
+
 
 - Operating System: Windows 7/8/10/11
 - Screen Resolution: 1280x1024 or higher recommended
