@@ -1,15 +1,15 @@
 Premium Airdrop Tracker v1.1
 © 2025 NafasMedia Software. All rights reserved.
 
-=======================
+
 APPLICATION OVERVIEW
-=======================
+
 
 Premium Airdrop Tracker is a comprehensive desktop application designed to help cryptocurrency enthusiasts track and manage their airdrop projects. The application provides a user-friendly interface to monitor progress, set reminders, and analyze your airdrop portfolio.
 
-=======================
+
 KEY FEATURES
-=======================
+
 
 1. Project Management
    - Add, edit, and delete airdrop projects
@@ -56,9 +56,9 @@ SYSTEM REQUIREMENTS
 - 4GB RAM minimum
 - 100MB available storage space
 
-=======================
+
 INSTALLATION
-=======================
+
 
 1. Download the latest version from our website
 2. Run the installer executable
@@ -69,18 +69,18 @@ For portable version:
 1. Extract the ZIP file to your preferred location
 2. Run "Premium Airdrop Tracker.exe"
 
-=======================
+
 FIRST TIME SETUP
-=======================
+
 
 On first launch, you will be prompted to:
 1. Set a secure password for the application
 2. Optionally set up a security question for password recovery
 3. Begin adding your airdrop projects
 
-=======================
+
 SUPPORT
-=======================
+
 
 Website: https://software.nafasmedia.eu.org
 Privacy Policy: https://software.nafasmedia.eu.org/privacy
@@ -88,9 +88,9 @@ Terms of Service: https://software.nafasmedia.eu.org/terms
 
 For technical support or to report issues, please contact our support team through the website.
 
-=======================
+
 TROUBLESHOOTING
-=======================
+
 
 Common issues and solutions:
 
@@ -110,9 +110,9 @@ Common issues and solutions:
    - Try reducing the number of active projects
    - Ensure you have adequate system resources available
 
-=======================
+
 LICENSE & TERMS
-=======================
+
 
 This software is proprietary and protected by copyright laws. All rights reserved to NafasMedia Software.
 
@@ -120,9 +120,9 @@ You may not redistribute, reverse engineer, or modify this software without expl
 
 By using this software, you agree to our Terms of Service and Privacy Policy.
 
-=======================
+
 VERSION HISTORY
-=======================
+
 v1.0-v1.4 (2025-08-20)
 - Beta Version Information in our website
 
